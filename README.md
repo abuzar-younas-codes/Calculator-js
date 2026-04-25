@@ -1,20 +1,22 @@
 # 🧮 Simple JavaScript Calculator
 
-Ye ek basic calculator hai jo JavaScript ke `prompt()` function ko use karke user se input leta hai aur result browser ke **Console** mein dikhata hai.
+A basic calculator built with JavaScript that uses the `prompt()` function to take user input and displays the result directly in the browser's **Console**.
 
-## ✨ Features:
-- Addition (+), Subtraction (-), Multiplication (*), aur Division (/).
-- **Data Validation:** User ke input ko numbers mein convert karta hai.
-- **Error Handling:** Division by zero ka check laga hua hai.
+<img width="748" height="575" alt="js screen shot" src="https://github.com/user-attachments/assets/427252c9-a922-4aec-a017-c2705f7b2d28" />
 
-- <img width="748" height="575" alt="js screen shot" src="https://github.com/user-attachments/assets/427252c9-a922-4aec-a017-c2705f7b2d28" />
+## ✨ Features
+- **Operations:** Supports Addition (+), Subtraction (-), Multiplication (*), and Division (/).
+- **Data Validation:** Automatically converts user input into numbers for calculations.
+- **Error Handling:** Includes a specific check for "Division by Zero" to ensure accuracy.
 
+## 🚀 How to Run
+1. Click on this [Live Demo Link](https://abuzar-younas-codes.github.io/Calculator-js/).
+2. Enter the numbers and the operator in the browser prompts.
+3. Press **F12** on your keyboard and check the **Console** tab to see your result!
 
-## 🚀 Kaise Chalayein?
-1. Is [Live Link](https://abuzar-younas-codes.github.io/Calculator-js/) par click karein.
-2. Browser mein numbers aur operator enter karein.
-3. **F12** daba kar **Console** tab mein apna result dekhein!
+## 🛠️ Tech Stack
+- **HTML5:** For the basic structure.
+- **JavaScript (ES6):** For the calculation logic and user interaction.
 
-## 🛠️ Tech Used:
-- HTML5
-- JavaScript (ES6)
+---
+Developed with ❤️ by **Abuzar Younas**
